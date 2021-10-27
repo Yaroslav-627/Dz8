@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');    
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.head {
+    top: 32px;
+    display: flex;
+    justify-content: space-around;
+    color: rgb(24, 179, 179);
+}
+.ul{
+    display: flex;
+}
+.list{    
+    margin-left: 27.5px;
+    list-style: none;
+    font-size: 14px;
+    font-family: Montserrat;
+    color: rgb(24, 179, 179);
+}
+.logo{
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+}
+.list:hover {
+    color: rgb(250, 137, 62);
+    cursor: pointer;
+}
+.we {
+    text-align: center;
+    font-family: Kaushan Script;
+    font-weight: 400;
+    font-size: 24px;
+    color: #333333;
+}
+.me{
+    text-align: center;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: 700;
+    color: #333333; 
+}
+.pl{
+    background-color: #F38181;
+    width: 60px;
+    height: 4px;
+    margin: 36px auto 45px;
+}
+.lorem{
+    text-align: center;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 400;
+    margin: auto auto 27px;
+    color: #B6B6B6;
+}
+.photo{
+    display: flex;
+    justify-content: space-between;
+}
+.p{
+    width: 380px;
+    height: 470px;
+}
+.t{
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 14px;
+    color: #333333;
+}
+.t1{
+    font-family: Roboto;
+    font-style: italic;
+    font-size: 15px;
+    color: #B6B6B6;
+    text-align: center;
+}
